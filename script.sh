@@ -12,6 +12,7 @@ apt_apps=(
   neofetch
   mpv # for Anki audio
   shellcheck
+  # gnome-session gdm3 # Vanilla Gnome
 )
 apt_apps_desktop_only=(
   steam-installer
