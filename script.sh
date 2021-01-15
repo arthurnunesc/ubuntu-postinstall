@@ -11,6 +11,7 @@ apt_apps=(
   nautilus-dropbox
   neofetch
   mpv # for Anki audio
+  shellcheck
 )
 apt_apps_desktop_only=(
   steam-installer
