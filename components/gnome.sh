@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# To-do
+# Set on the Activities Overview Hot Corner
+# Set off Maximize Title Bar button
+
 # Switch Gnome's stock Alt+tab function to Windows'
 dconf write /org/gnome/desktop/wm/keybindings/switch-applications "['']"
 dconf write /org/gnome/desktop/wm/keybindings/switch-applications-backward "['']"
